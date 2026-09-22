@@ -1,0 +1,13 @@
+CELL CAVE — GitHub Pages Upload
+
+1. Open your GitHub repository: cellcave/APPS
+2. Delete the old uploaded files from the repository.
+3. Extract this ZIP on your computer.
+4. Upload ALL extracted files and folders to the repository root.
+5. Make sure index.html and the _next folder are visible at the repository root.
+6. Commit the changes.
+7. Open Settings > Pages.
+8. Select Deploy from a branch, main branch, /(root), then Save.
+9. Open https://cellcave.github.io/APPS/ after 2–5 minutes.
+
+Do not upload the ZIP file itself and do not upload an outer folder.
